@@ -36,7 +36,11 @@ tools.
 Documentation Example
 =====================
 
+<<<<<<< HEAD
 תיעוד מוכנס מעל כל ``חוזה``, ``ממשק``, 
+=======
+Documentation is inserted above each ``contract``, ``interface``, ``library``,
+>>>>>>> 1210c3e60f2a0bd02ed7fb8f2da2f686ee38e1af
 ``function``, and ``event`` using the Doxygen notation format.
 A ``public`` state variable is equivalent to a ``function``
 for the purposes of NatSpec.
